@@ -1,0 +1,17 @@
+Untuk ikon aplikasi EduBot:
+
+1. Anda perlu membuat atau mendapatkan sebuah ikon dan menyimpannya di direktori ini dengan nama "edubot_icon.png".
+
+2. Ikon sebaiknya memiliki ukuran 256x256 piksel dengan latar belakang transparan.
+
+3. Ikon yang direkomendasikan adalah logo aplikasi EduBot dengan desain minimalis yang menggambarkan konsep asisten AI untuk Linux.
+
+4. Beberapa sumber untuk mendapatkan atau membuat ikon:
+   - Situs web desain gratis seperti Canva atau Figma
+   - Designer ikon seperti Iconmonstr atau Flaticon
+   - Desainer grafis atau penyedia layanan freelance
+
+5. Setelah mendapatkan ikon, simpan di lokasi:
+   /path/to/edubot/resources/edubot_icon.png
+
+6. Pastikan untuk memperbarui path di file .desktop jika Anda membuat shortcut desktop. 
